@@ -2,6 +2,12 @@
 
 The objective of this challenge is to prepare students for the upcoming AI Factories in the European Union. These AI Factories will harness the power of next-generation HPC and AI systems to revolutionise data processing, analytics, and model deployment. Through this challenge, students will gain practical skills in AI benchmarking, system monitoring, and real-world deployment scenarios—equipping them to design and operate future AI Factory workflows at scale.
 
+## 📋 Current Phase: October 2024 (Phase 1)
+
+**📖 [Detailed October Workflow](./OCTOBER_WORKFLOW.md)** - Complete month-by-month breakdown with tasks, deliverables, and timelines
+
+**✅ [Quick Checklist](./QUICK_CHECKLIST.md)** - Essential tasks and immediate action items for Phase 1
+
 # Global plan of the challenge
 
 The challenge will span 4 months, with students organised into teams. It follows these steps:
