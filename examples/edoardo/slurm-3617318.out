@@ -1,0 +1,11 @@
+Date              = Thu Oct  2 12:20:32 CEST 2025
+Hostname          = mel2134
+Working Directory = /project/home/p200981/team3/examples/edoardo
+Lmod has detected the following error: These module(s) or extension(s) exist
+but cannot be loaded as requested: "Apptainer"
+   Try: "module spider Apptainer" to see how to load the module(s).
+
+
+
+/var/spool/parastation/jobs/3617318: line 23: apptainer: command not found
+/var/spool/parastation/jobs/3617318: line 24: apptainer: command not found
